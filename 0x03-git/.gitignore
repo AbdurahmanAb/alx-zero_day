@@ -1,0 +1,7 @@
+[core]
+    ... (existing configurations)
+    excludesfile = ~.local_gitignore
+[remote "origin"]
+    ... (existing configurations)
+[branch "master"]
+    ... (existing configurations)
